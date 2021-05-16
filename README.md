@@ -24,9 +24,9 @@
 
 
 <a href="https://github.com/thiagobfim?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagobfim&hide=jupyter%20notebook&theme=light&hide_langs_below=0&title_color=000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagobfim&hide=jupyter%20notebook&theme=dracula&hide_langs_below=0" />
 </a>
 
 <a href="https://github.com/thiagobfim">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=thiagobfim&show_icons=false&theme=light&line_height=40&title_color=7221ff"
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=thiagobfim&show_icons=false&theme=dracula&line_height=40&title_color=7221ff"
 </a>

@@ -28,5 +28,5 @@
 </a>
 
 <a href="https://github.com/thiagobfim">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=thiagobfim&show_icons=false&theme=dracula&line_height=40&title_color=7221ff"
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=thiagobfim&show_icons=true&theme=dracula&line_height=40&title_color=7221ff"
 </a>

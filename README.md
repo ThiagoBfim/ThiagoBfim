@@ -4,11 +4,12 @@
 
 #### Platform
 
-<img src="https://img.shields.io/badge/-Flutter-02569B.svg?logo=flutter&style=plastic"> <img src="https://img.shields.io/badge/-Angular-c40904?logo=Angular&style=plastic">  <img src="https://img.shields.io/badge/-Git-ff9c8a.svg?logo=git&style=plastic">  <img src="https://img.shields.io/badge/Spring-8eedc2.svg?logo=spring&style=plastic"> <img src="https://img.shields.io/badge/-Firebase-FFCA28.svg?logo=firebase&style=plastic">  <img src="https://img.shields.io/badge/-Docker-51b1e8.svg?logo=docker&style=plastic"> 
+<img src="https://img.shields.io/badge/-Flutter-02569B.svg?logo=flutter&style=plastic"> <img src="https://img.shields.io/badge/-Angular-c40904?logo=Angular&style=plastic"> <img src="https://img.shields.io/badge/-Git-ff9c8a.svg?logo=git&style=plastic"> <img src="https://img.shields.io/badge/Spring-8eedc2.svg?logo=spring&style=plastic"> <img src="https://img.shields.io/badge/-Firebase-FFCA28.svg?logo=firebase&style=plastic"> <img src="https://img.shields.io/badge/-Docker-85d2ff.svg?logo=docker&style=plastic"> 
+<img src="https://img.shields.io/badge/-Kubernetes-51b1e8.svg?logo=kubernetes&style=plastic">
 
 #### Programing Language
 
- <img src="https://img.shields.io/badge/-Dart-00599C.svg?logo=dart&style=plastic"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=JavaScript&style=plastic"> <img src="https://img.shields.io/badge/-Java-007396.svg?logo=java&style=plastic"> 
+ <img src="https://img.shields.io/badge/-Dart-00599C.svg?logo=dart&style=plastic"> <img src="https://img.shields.io/badge/-JavaScript-fffbdb.svg?logo=JavaScript&style=plastic"> <img src="https://img.shields.io/badge/-Java-007396.svg?logo=java&style=plastic"> 
 
 
 ### Training
@@ -16,7 +17,8 @@
  <img src="https://img.shields.io/badge/-Microservices-005571.svg?logo=Kafka&style=plastic"> 
 
 ### Profile & Contact Me!
-[![About Me](https://img.shields.io/badge/-AboutMe-FF5722.svg?&style=plastic)](https://thiagobfim.github.io/Portfolio/#/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836.svg?logo=gmail&style=plastic&link=mailto:thiagobomfim.work@gmail.com)](mailto:thiagobomfim.work@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Thiago%20Bomfim-02569B?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagoBfim/)](https://www.linkedin.com/in/thiagoBfim/) 
+[![Gmail Badge](https://img.shields.io/badge/Thiago%20Bomfim%20Gmail-02569B?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiago.bomfim.work@gmail.com)](mailto:thiago.bomfim.work@gmail.com)
 
 
 

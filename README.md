@@ -32,3 +32,8 @@
 <a href="https://github.com/thiagobfim">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=thiagobfim&show_icons=true&theme=dracula&line_height=40&title_color=7221ff"
 </a>
+ 
+ <a href="https://profile.codersrank.io/user/thiagobfim">
+  <img align="center" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=thiagobfim&badges=3&show-avatar=true&style=--header-bg-color:%23000;--border-radius:0px--min-width=100"
+</a>
+

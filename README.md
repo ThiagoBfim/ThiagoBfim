@@ -26,11 +26,11 @@
 
 
 <a href="https://github.com/thiagobfim?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagobfim&hide=jupyter%20notebook&theme=dracula&hide_langs_below=0" />
+  <img height="250" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagobfim&hide=jupyter%20notebook&theme=dracula&hide_langs_below=0" />
 </a>
 
 <a href="https://github.com/thiagobfim">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=thiagobfim&show_icons=true&theme=dracula&line_height=40&title_color=7221ff"/>
+  <img height="250" align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=thiagobfim&show_icons=true&theme=dracula&include_all_commits=true&line_height=40&title_color=7221ff"/>
 </a>
 
  <br/>

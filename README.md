@@ -24,15 +24,15 @@
 
 
 
-
+<div>
 <a href="https://github.com/thiagobfim?tab=repositories">
-  <img height="250" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagobfim&hide=jupyter%20notebook&theme=dracula&hide_langs_below=0" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagobfim&hide=jupyter%20notebook&theme=dracula&hide_langs_below=0" />
 </a>
 
 <a href="https://github.com/thiagobfim">
-  <img height="250" align="center" src="https://github-readme-stats.vercel.app/api?username=thiagobfim&show_icons=true&theme=dracula&include_all_commits=true&title_color=7221ff&count_private=true"/>
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=thiagobfim&show_icons=true&theme=dracula&include_all_commits=true&title_color=7221ff&count_private=true"/>
 </a>
-
+</div>
  <br/>
  <br/>
 

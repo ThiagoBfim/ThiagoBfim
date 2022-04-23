@@ -30,7 +30,7 @@
 </a>
 
 <a href="https://github.com/thiagobfim">
-  <img height="250" align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=thiagobfim&show_icons=true&theme=dracula&include_all_commits=true&line_height=40&title_color=7221ff"/>
+  <img height="250" align="center" src="https://github-readme-stats.vercel.app/api?username=thiagobfim&show_icons=true&theme=dracula&include_all_commits=true&title_color=7221ff&count_private=true"/>
 </a>
 
  <br/>

@@ -37,5 +37,5 @@
  <br/>
 
  <a href="https://profile.codersrank.io/user/thiagobfim">
-    <img width="350" align="center" src="WorldWide.png?raw=true 'CodersRank'">
+    <img width="350" align="center" src="WorldWide.png?raw=true" alt='CodersRank'>
 </a>

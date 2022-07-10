@@ -33,9 +33,16 @@
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=thiagobfim&show_icons=true&theme=dracula&include_all_commits=true&title_color=7221ff&count_private=true"/>
 </a>
 </div>
- <br/>
- <br/>
+
+<br>
+<div>
+
+<a height="150em" href="http://www.github.com/ThiagoBfim">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ThiagoBfim&theme=dark&currStreakNum=7D12DD&ring=6D0EDD&fire=DD2727&currStreakLabel=DD2727&date_format=Y%20M%20j" />
+</a>
 
  <a href="https://profile.codersrank.io/user/thiagobfim">
-    <img width="350" align="center" src="WorldWide.png?raw=true" alt='CodersRank'>
+    <img width="350" src="WorldWide.png?raw=true" alt='CodersRank'/>
 </a>
+
+</div>

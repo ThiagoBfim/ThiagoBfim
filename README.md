@@ -12,7 +12,7 @@
  <img src="https://img.shields.io/badge/-Dart-00599C.svg?logo=dart&style=plastic"> <img src="https://img.shields.io/badge/-JavaScript-fffbdb.svg?logo=JavaScript&style=plastic"> <img src="https://img.shields.io/badge/-Java-007396.svg?logo=java&style=plastic">
 
 
-### Training
+### Others
 
  <img src="https://img.shields.io/badge/-Microservices-005571.svg?logo=Kafka&style=plastic">
 
